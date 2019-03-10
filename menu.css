@@ -6,6 +6,12 @@ body{
   background-color: #080A52;
 }
 
+.notARealClass{
+  height: 100px;
+  width: 100px;
+  transition: 1s ease;
+}
+
 .resizeLogo{
   height: 100px;
   width: 150px;
