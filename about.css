@@ -19,7 +19,7 @@ body{
 .resizeLogo{
   height: 100px;
   width: 150px;
-  border-radius: 20px;
+  border-radius: 60px 60px 0px 0px;
 }
 
 .display-4{
